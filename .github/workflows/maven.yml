@@ -5,7 +5,7 @@ on:
 
 jobs:
 
-  build:
+  build: 
     runs-on: ubuntu-latest
     steps:
     - name: Setup Maven Action
