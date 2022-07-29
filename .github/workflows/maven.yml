@@ -1,6 +1,6 @@
 name: Java CI with Maven_1 
 
-on:
+on: 
   push
 
 jobs:
